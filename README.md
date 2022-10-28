@@ -1,2 +1,2 @@
-# InfluenceMaximization
+# Influence Maximization
 Influence Maximization
